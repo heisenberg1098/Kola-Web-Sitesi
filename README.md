@@ -1,4 +1,4 @@
-Kola Web Sitesi 🥤🌐
+Kola Web Sitesi 🥤🌐                                                                                                                                                                                               
 Kola tutkunları için modern ve şık bir web deneyimi! Bu site, en sevilen içecek olan kolayı keşfetmek, tarihini öğrenmek ve favori kola markalarınızla ilgili bilgi edinmek için mükemmel bir platform sunuyor.
 
 📌 Özellikler
