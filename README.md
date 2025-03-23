@@ -24,7 +24,7 @@ Font Awesome – Sitemizde simgeler ve ikonlar için kullanıldı.
 📥 Kurulum
 Projeyi Klonlayın:
 bash
-git clone https://github.com/kullaniciadi/kola-web.git
+git clone https://github.com/heisenberg1098/Kola-Web-Sitesi.git
 
 Gerekli Dosyaları Yükleyin:
 bash
